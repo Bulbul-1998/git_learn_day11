@@ -1,0 +1,7 @@
+mul()
+{
+ int a=5,b=6;
+int into;
+into=a+b;
+printf("into");
+}
