@@ -1,0 +1,7 @@
+sub()
+{
+ int a=5,b=6;
+int dif;
+dif=a+b;
+printf("dif")
+}
